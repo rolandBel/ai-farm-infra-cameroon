@@ -1,0 +1,7 @@
+# Dossiers Terraform temporaires
+.terraform/
+.terraform.lock.hcl
+
+# Fichiers système
+.DS_Store
+Thumbs.db
